@@ -18,8 +18,7 @@
 - 一站式
   - 在 IOC 和 AOP 的基础上可以整合各种企业应用的开源框架和优秀的第三方类库 （实际上 Spring 自身也提供了展现层的 SpringMVC 和 持久层的 Spring JDBC）
 
-**Spring体系结构**：Spring建立了一个灵活的可热插拔的组件结构。![1567753531846](https://github.com/kawnj/SpringNode/blob/master/SpringNode.assets/1567753531846.png)
-
+**Spring体系结构**：Spring建立了一个灵活的可热插拔的组件结构。
 ![1567742486839](SpringNode.assets/1567742486839.png)
 
 
